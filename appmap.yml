@@ -1,3 +1,5 @@
 name: jenkins-plugin-workflow-step-api
 packages:
+- path: jenkins
+- path: hudson
 - path: org.jenkinsci.plugins.workflow
